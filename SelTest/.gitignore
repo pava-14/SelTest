@@ -1,3 +1,6 @@
 #RiderC#
 .idea/
 *.*.iml
+bin/
+debug/
+
